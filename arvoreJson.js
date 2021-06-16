@@ -5,8 +5,9 @@ var obj = {
     att3: [{array3Filho1: 'aaaaaa'}, {array3Filho2: 'bbbbbbb'}],
     att4: '444'
   },
-  column01: "Coluna 01",
-  column02: "Coluna 02"
+  //ainda falta corrigir para liberar os atributos abaixo
+  //column01: "Coluna 01",
+  //column02: "Coluna 02"
 };
 
 var lstFormulario = []
